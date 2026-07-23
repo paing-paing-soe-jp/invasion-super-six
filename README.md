@@ -1,5 +1,3 @@
-# invasion-super-six
-My first game project built with Scratch while starting my programming journey.
 # INVASION: Super Six 🎮
 
 My first game project created while I was beginning my programming journey.
