@@ -12,7 +12,8 @@ A top-down action game created with Scratch.
 
 ## 📸 Screenshots
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](<img width="1657" height="1067" alt="スクリーンショット 2026-07-24 013016" src="https://github.com/user-attachments/assets/c633a4f3-d0e6-4c2c-830c-c0212c87c197" />
+)
 
 ## 🛠️ Built With
 
